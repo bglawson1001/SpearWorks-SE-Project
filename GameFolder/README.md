@@ -8,4 +8,4 @@
 
 |   #   | Folder Link                            | 
 | :---: | -------------------------------------- | 
-|   1   | [Super Cool Ethics Game (Final) ] (https://github.com/bglawson1001/SpearWorks-SE-Project/blob/main/GameFolder/Super_Cool_Ethics_Game%20(Final%20Version).zip)  | 
+|   1   | [Super Cool Ethics Game (Final)](https://github.com/bglawson1001/SpearWorks-SE-Project/blob/main/GameFolder/Super_Cool_Ethics_Game%20(Final%20Version).zip) |
