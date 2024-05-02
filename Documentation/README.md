@@ -3,7 +3,7 @@
 
 |   #   | Folder Link                            | 
 | :---: | -------------------------------------- | 
-|   1   | [Requirements Document](./FakeAssignments/A01/README.md) | 
+|   1   | [Requirements Document]([./FakeAssignments/A01/README.md](https://github.com/bglawson1001/SpearWorks-SE-Project/blob/main/Documentation/SpearWorks_Requirements_Document_Final_Version.pdf)) | 
 |   2   | [Project Plan](./FakeAssignments/A02/README.md) | 
 |   3   | [Testing Report](./FakeAssignments/P01/README.md) | 
 |   1   | [Presentation](./FakeAssignments/P02/README.md) | 
