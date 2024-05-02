@@ -1,6 +1,6 @@
 # SpearWorks-SE-Project
 ### Software engineering project created by 
--Daniel Nguyen 
+- Daniel Nguyen 
 - Brayden Lawson 
 - Zane Brown 
 - Bishop Swearingen. 
